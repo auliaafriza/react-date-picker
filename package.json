@@ -1,13 +1,12 @@
 {
   "name": "react-next-date-picker",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "private": false,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "version": "npm run build && git add -A dist"
+    "lint": "next lint"
   },
   "peerDependencies": {
     "react": ">=18",
